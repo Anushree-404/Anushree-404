@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 📫 How to reach me anushreedhanashetti@gmail.com
 - 😄 Pronouns: Anu
-- ⚡ Fun fact: 
+
 
 <!---
 Anushree-404/Anushree-404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
