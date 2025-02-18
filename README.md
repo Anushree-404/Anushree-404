@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anushree-404
-- 👀 I’m interested in wed designing
+- 👀 I’m interested in web designing
 - 🌱 I’m currently learning java
 - 📫 How to reach me anushreedhanashetti@gmail.com
 - 😄 Pronouns: Anu
