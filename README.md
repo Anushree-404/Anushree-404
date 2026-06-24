@@ -1,154 +1,157 @@
-<div align="center">
+# Hi there, I'm Anushree Dhanashetti 👋
 
-# 👋 Hi, I'm Anushree Dhanashetti
+**AI/ML Engineer | Full-Stack Developer | Computer Vision Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Full+Stack+Developer;Java+%7C+Python+%7C+React+Developer;Problem+Solver+%7C+Open+Source+Learner;Always+Learning+Something+New" />
+Welcome to my GitHub! I'm a final-year Computer Science and Engineering student passionate about building intelligent systems that solve real-world problems. My expertise spans **Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation (RAG), and Computer Vision** — with a commitment to shipping production-ready solutions.
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
-</p>
-
-</div>
+I believe in end-to-end ownership: from architecture and development to rigorous evaluation and deployment. Every project here reflects that philosophy.
 
 ---
 
-# 🚀 About Me
+## 🚀 Featured Projects
 
-💻 Computer Science student passionate about building scalable and user-friendly applications.
+### 1. **Legal AI Assistant** | RAG-powered Legal Research Platform
+*A grounded, auditable legal research system with zero hallucination*
 
-🌱 Constantly learning new technologies and improving problem-solving skills.
+Legal research is slow, error-prone, and expensive. I built an AI assistant that retrieves statutes and case law, reviews contracts, and answers legal questions with **full source attribution** — every claim is traceable.
 
-🎯 Interested in Full Stack Development, Software Engineering, AI, and Open Source.
+**Key Features:**
+- 🔗 **LangChain + ChromaDB** for semantic retrieval and indexing
+- 🎯 **Source attribution** — every answer cites its legal basis
+- ⚡ **FastAPI** backend for efficient processing
+- 🧠 **GPT-4o** reasoning and summarization
+- 🎨 **React + TypeScript** frontend with interactive UI
+- ✅ **Hallucination-free** design with grounded answers
 
-⚡ I enjoy transforming ideas into real-world software solutions.
+**Tech Stack:** LangChain, ChromaDB, FastAPI, GPT-4o, React, TypeScript, MongoDB
 
-📚 Currently strengthening my knowledge in:
-- Full Stack Web Development
-- Data Structures & Algorithms
-- System Design
-- React Ecosystem
-- Backend Development
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-</p>
-
-## ⚛️ Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-</p>
-
-## 🔧 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-## ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+**[Explore the Repository →](https://github.com/Anushree-404)**
 
 ---
 
-# 📈 GitHub Statistics
+### 2. **ISRO RAG Assistant** | Mission Document QA System
+*Intelligent Q&A over dense technical documents with confidence scoring*
 
-<div align="center">
+ISRO mission documents are massive, technical, and scattered. This system answers questions precisely with citations and confidence metrics — and it *knows* when it doesn't know.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Key Features:**
+- 📄 **Hybrid retrieval** combining FAISS (semantic) + BM25 (keyword) search
+- 🔀 **Reciprocal Rank Fusion** for superior ranking over single methods
+- 🎯 **Confidence scoring** — which answers are most reliable?
+- 🚨 **Automatic hallucination detection** — identifies unsupported claims
+- 📊 **RAGAS evaluation** on 30 QA pairs across:
+  - ✓ Faithfulness (is the answer grounded?)
+  - ✓ Answer Relevancy (does it answer the question?)
+  - ✓ Context Recall (did we retrieve the right context?)
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+**Tech Stack:** FAISS, BM25, ChromaDB, RAGAS, Python, LangChain, FastAPI
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
+**[Explore the Repository →](https://github.com/Anushree-404)**
 
 ---
 
-# 📊 Contribution Graph
+### 3. **AR Physiotherapy Assistant** | Real-time Pose Estimation & AR Feedback
+*Make physiotherapy accessible — detect postural errors in real-time*
 
-<div align="center">
+Physiotherapy is expensive and inaccessible. I built a system that watches your movements, detects errors, and gives corrective feedback through **AR overlays** — live, on video.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
+**Key Features:**
+- 🎥 **Real-time pose estimation** with MediaPipe/OpenPose
+- 🔴 **Postural error detection** with custom ML classifiers
+- 📱 **Augmented Reality feedback** with corrective guidance overlays
+- 📊 **Movement tracking** — joint angle analysis and ROM tracking
+- 🚀 **Lightweight & fast** — runs on edge devices
 
-</div>
+**Tech Stack:** Python, MediaPipe, OpenCV, TensorFlow, AR frameworks, Computer Vision
 
----
-
-# 🌟 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🚀 Project 1 | Full Stack Web Application | React • Node • MongoDB |
-| 💡 Project 2 | Java Desktop Application | Java • MySQL |
-| 📊 Project 3 | Python AI Project | Python • Machine Learning |
+**[Explore the Repository →](https://github.com/Anushree-404)**
 
 ---
 
-# 🎯 Current Goals
+## 🛠️ Additional Projects
 
-✅ Master Full Stack Development
+Beyond the flagship projects, I've built across the full stack:
 
-✅ Contribute to Open Source
-
-✅ Solve 500+ DSA Problems
-
-✅ Build Production-Level Projects
-
-✅ Prepare for Software Engineering Roles
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Portfolio Website** | Showcase of projects and skills | React, TypeScript, Tailwind CSS |
+| **E-Commerce Platform** | Full-stack shopping application | React, Node.js, MongoDB, Stripe |
+| **Registration & Login System** | Secure authentication system | React, FastAPI, JWT, MongoDB |
+| **QR Code Generator** | Dynamic QR code creation tool | React, Python, qrcode library |
+| **Todo List App** | Task management with persistence | React, LocalStorage |
+| **Digital Clock** | Real-time clock with timezone support | HTML, CSS, JavaScript |
 
 ---
 
-# 🤝 Connect With Me
+## 💻 Technical Skills
 
-<p align="center">
+**Languages:** Python, JavaScript, TypeScript  
+**AI/ML:** LangChain, RAG, Vector Databases, RAGAS evaluation  
+**Backend:** FastAPI, MongoDB, Docker  
+**Frontend:** React, HTML, CSS, Tailwind CSS  
+**Tools:** Git, REST APIs, Production Deployment
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+---
+
+## 📈 Approach & Philosophy
+
+✅ **Grounded AI** — Every answer must have a source  
+✅ **Rigorous Evaluation** — Metrics matter (RAGAS, accuracy, faithfulness)  
+✅ **Full Lifecycle** — Architecture → Development → Evaluation → Deployment  
+✅ **Production-Ready** — Not just notebooks; real systems that work  
+✅ **User-Centric** — Build for impact, not just complexity  
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm eager to contribute to teams building:
+- 🧠 Intelligent systems with RAG and LLMs
+- 👁️ Computer Vision applications at scale
+- 🚀 Edge AI and embedded systems
+- 📊 Data-driven products with rigorous evaluation
+- 🌐 Full-stack AI/ML applications
+
+---
+
+## 📬 Let's Connect!
+
+<a href="https://www.linkedin.com/in/anushree-dhanashetti/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:anushreedhanashetti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/Anushree-404" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+---
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+## 📊 GitHub Stats
 
-</p>
+![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🌟 Open to Collaboration
+
+I'm actively looking to collaborate on:
+- 🔬 AI/ML research and implementations
+- 🏗️ Building production AI systems
+- 💡 Open-source contributions
+- 🤝 Mentoring and knowledge sharing
+
+**Feel free to reach out — let's build something intelligent together!**
 
 ---
 
 <div align="center">
 
-### ⭐ *"Code. Learn. Build. Repeat."*
+### "Code is poetry, but AI systems tell stories that matter." 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:007CF0&height=120&section=footer"/>
+⭐ If you find my projects interesting, consider giving them a star! It helps others discover them too.
 
 </div>
