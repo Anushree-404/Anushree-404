@@ -56,7 +56,7 @@ ISRO mission documents are massive, technical, and scattered. This system answer
 Physiotherapy is expensive and inaccessible. I built a system that watches your movements, detects errors, and gives corrective feedback through **AR overlays** — live, on video.
 
 **Key Features:**
-- 🎥 **Real-time pose estimation** with MediaPipe/OpenPose
+- 🎥 **Real-time pose estimation** with MediaPipe/OpenPose 
 - 🔴 **Postural error detection** with custom ML classifiers
 - 📱 **Augmented Reality feedback** with corrective guidance overlays
 - 📊 **Movement tracking** — joint angle analysis and ROM tracking
