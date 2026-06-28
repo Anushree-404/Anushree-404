@@ -38,46 +38,66 @@ A system that detects postural errors in real-time and provides corrective feedb
 
 ---
 
+## 🛠️ Additional Projects
 
+Beyond the flagship projects, I've built across the full stack:
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Portfolio Website** | Showcase of projects and skills | React, TypeScript, Tailwind CSS |
+| **E-Commerce Platform** | Full-stack shopping application | React, Node.js, MongoDB, Stripe |
+| **Registration & Login System** | Secure authentication system | React, FastAPI, JWT, MongoDB |
+| **QR Code Generator** | Dynamic QR code creation tool | React, Python, qrcode library |
+| **Todo List App** | Task management with persistence | React, LocalStorage |
+| **Digital Clock** | Real-time clock with timezone support | HTML, CSS, JavaScript |
+
+---
 
 ## 💻 Technical Skills
 
 <div align="center">
 
-### 🧠 **AI/ML & Data**
-`Python` • `Machine Learning` • `LangChain` • `RAG` • `Vector Databases` • `RAGAS`
+### 🎨 **AI/ML & Data**
+```
+Python • Machine Learning • LangChain • RAG • Vector Databases • RAGAS
+```
 
-### 🔧 **Full-Stack Development**
-`FastAPI` • `React` • `Node.js` • `MongoDB` • `TypeScript` • `JavaScript`
+### ⚙️ **Full-Stack Development**
+```
+FastAPI • React • Node.js • MongoDB • TypeScript • JavaScript
+```
 
 ### 🔐 **Network Security**
-`REST APIs` • `Authentication` • `Secure Deployment` • `Production Security`
+```
+REST APIs • Authentication • Secure Deployment • Production Security
+```
 
-### 📚 **Exploring**
-🔍 Retrieval-Augmented Generation (RAG)  
-🔍 Large Language Models (LLMs)  
+### 📚 **Exploring & Learning**
+```
+🔍 Retrieval-Augmented Generation (RAG)
+🔍 Large Language Models (LLMs)
 🔍 Advanced AI Architectures
+```
 
 </div>
 
 ---
 
 
+## 👤 About Me
 
-## 🙋 About Me
-
-- 🧠 **AI/ML Engineer** exploring RAG, LLMs, and intelligent systems
-- 🔬 **Building Production Systems** — from architecture to deployment
-- 📚 **Final-year CS Student** with hands-on experience in enterprise AI
-- 🚀 **Full-Stack Developer** — backend APIs, frontend UI, everything in between
-- 🎯 **Problem Solver** — passionate about solving real-world challenges with AI
-- 📈 **Always Learning** — staying updated with latest developments in AI/ML
+- 🎯 **AI/ML Engineer** exploring RAG, LLMs, and intelligent systems
+- 🏗️ **Building Production Systems** — from architecture to deployment
+- 👨‍💻 **Full-Stack Developer** — backend APIs, frontend UI, everything in between
+- 🔐 **Security Conscious** — building safe and secure applications
+- 🚀 **Problem Solver** — passionate about solving real-world challenges with AI
+- 📚 **Always Learning** — staying updated with latest developments in AI/ML
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🤖 **RAG Systems** — Building retrieval-augmented generation solutions
+- 📦 **RAG Systems** — Building retrieval-augmented generation solutions
 - 📄 **Document Intelligence** — QA systems over complex technical documents
 - 🌐 **Full-Stack AI Applications** — Integrating LLMs into production systems
 - 🧪 **Rigorous Evaluation** — Measuring AI system performance with RAGAS metrics
