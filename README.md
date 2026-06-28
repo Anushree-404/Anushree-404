@@ -11,60 +11,32 @@ I believe in end-to-end ownership: from architecture and development to rigorous
 ## 🚀 Featured Projects
 
 ### 1. **Legal AI Assistant** | RAG-powered Legal Research Platform
-*A grounded, auditable legal research system with zero hallucination*
 
-Legal research is slow, error-prone, and expensive. I built an AI assistant that retrieves statutes and case law, reviews contracts, and answers legal questions with **full source attribution** — every claim is traceable.
+An intelligent legal research system that retrieves statutes, reviews contracts, and answers legal questions with **full source attribution** — zero hallucination, every answer is traceable.
 
-**Key Features:**
-- 🔗 **LangChain + ChromaDB** for semantic retrieval and indexing
-- 🎯 **Source attribution** — every answer cites its legal basis
-- ⚡ **FastAPI** backend for efficient processing
-- 🧠 **GPT-4o** reasoning and summarization
-- 🎨 **React + TypeScript** frontend with interactive UI
-- ✅ **Hallucination-free** design with grounded answers
+**Stack:** LangChain, ChromaDB, FastAPI, GPT-4o, React, TypeScript
 
-**Tech Stack:** LangChain, ChromaDB, FastAPI, GPT-4o, React, TypeScript, MongoDB
-
-**[Explore the Repository →](https://github.com/Anushree-404)**
+**[Explore →](https://github.com/Anushree-404)**
 
 ---
 
 ### 2. **ISRO RAG Assistant** | Mission Document QA System
-*Intelligent Q&A over dense technical documents with confidence scoring*
 
-ISRO mission documents are massive, technical, and scattered. This system answers questions precisely with citations and confidence metrics — and it *knows* when it doesn't know.
+A precise Q&A system over dense ISRO technical documents using **hybrid retrieval** (FAISS + BM25) with confidence scoring and automatic hallucination detection. Evaluated on 30 QA pairs using RAGAS metrics.
 
-**Key Features:**
-- 📄 **Hybrid retrieval** combining FAISS (semantic) + BM25 (keyword) search
-- 🔀 **Reciprocal Rank Fusion** for superior ranking over single methods
-- 🎯 **Confidence scoring** — which answers are most reliable?
-- 🚨 **Automatic hallucination detection** — identifies unsupported claims
-- 📊 **RAGAS evaluation** on 30 QA pairs across:
-  - ✓ Faithfulness (is the answer grounded?)
-  - ✓ Answer Relevancy (does it answer the question?)
-  - ✓ Context Recall (did we retrieve the right context?)
+**Stack:** FAISS, BM25, ChromaDB, RAGAS, Python, LangChain, FastAPI
 
-**Tech Stack:** FAISS, BM25, ChromaDB, RAGAS, Python, LangChain, FastAPI
-
-**[Explore the Repository →](https://github.com/Anushree-404)**
+**[Explore →](https://github.com/Anushree-404)**
 
 ---
 
 ### 3. **AR Physiotherapy Assistant** | Real-time Pose Estimation & AR Feedback
-*Make physiotherapy accessible — detect postural errors in real-time*
 
-Physiotherapy is expensive and inaccessible. I built a system that watches your movements, detects errors, and gives corrective feedback through **AR overlays** — live, on video.
+A system that detects postural errors in real-time and provides corrective feedback through AR overlays. Makes physiotherapy accessible without requiring a therapist in the room.
 
-**Key Features:**
-- 🎥 **Real-time pose estimation** with MediaPipe/OpenPose
-- 🔴 **Postural error detection** with custom ML classifiers
-- 📱 **Augmented Reality feedback** with corrective guidance overlays
-- 📊 **Movement tracking** — joint angle analysis and ROM tracking
-- 🚀 **Lightweight & fast** — runs on edge devices
+**Stack:** Python, MediaPipe, OpenCV, TensorFlow, AR frameworks
 
-**Tech Stack:** Python, MediaPipe, OpenCV, TensorFlow, AR frameworks, Computer Vision
-
-**[Explore the Repository →](https://github.com/Anushree-404)**
+**[Explore →](https://github.com/Anushree-404)**
 
 ---
 
