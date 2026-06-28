@@ -63,15 +63,6 @@ Beyond the flagship projects, I've built across the full stack:
 **Frontend:** React, HTML, CSS, Tailwind CSS  
 **Tools:** Git, REST APIs, Production Deployment
 
----
-
-## 📈 Approach & Philosophy
-
-✅ **Grounded AI** — Every answer must have a source  
-✅ **Rigorous Evaluation** — Metrics matter (RAGAS, accuracy, faithfulness)  
-✅ **Full Lifecycle** — Architecture → Development → Evaluation → Deployment  
-✅ **Production-Ready** — Not just notebooks; real systems that work  
-✅ **User-Centric** — Build for impact, not just complexity  
 
 ---
 
