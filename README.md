@@ -1,8 +1,8 @@
 # Hi there, I'm Anushree Dhanashetti 👋
 
-**AI/ML Engineer | Building Intelligent Systems**
+**AI/ML Engineer | Full-Stack Developer | Security Enthusiast**
 
-I craft production-grade AI solutions using **RAG, LLMs, and Machine Learning**. Passionate about end-to-end ownership: from architecture and development to rigorous evaluation and real-world deployment.
+I build intelligent systems across the **full stack** — from AI/ML backends to responsive frontends. Exploring **RAG & LLMs** while maintaining strong fundamentals in **Network Security**. Passionate about end-to-end ownership: architecture → development → evaluation → deployment.
 
 ---
 
@@ -55,15 +55,27 @@ Beyond the flagship projects, I've built across the full stack:
 
 ## 💻 Technical Skills
 
-**Languages:** Python, JavaScript, TypeScript  
-**AI/ML:** LangChain, RAG, Vector Databases, RAGAS evaluation  
-**Backend:** FastAPI, MongoDB, Docker  
-**Frontend:** React, HTML, CSS, Tailwind CSS  
-**Tools:** Git, REST APIs, Production Deployment
+<div align="center">
 
+### 🧠 **AI/ML & Data**
+`Python` • `Machine Learning` • `LangChain` • `RAG` • `Vector Databases` • `RAGAS`
 
+### 🔧 **Full-Stack Development**
+`FastAPI` • `React` • `Node.js` • `MongoDB` • `TypeScript` • `JavaScript`
+
+### 🔐 **Network Security**
+`REST APIs` • `Authentication` • `Secure Deployment` • `Production Security`
+
+### 📚 **Exploring**
+🔍 Retrieval-Augmented Generation (RAG)  
+🔍 Large Language Models (LLMs)  
+🔍 Advanced AI Architectures
+
+</div>
 
 ---
+
+
 
 ## 🙋 About Me
 
