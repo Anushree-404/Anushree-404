@@ -1,10 +1,8 @@
 # Hi there, I'm Anushree Dhanashetti 👋
 
-**AI/ML Engineer | Full-Stack Developer | Computer Vision Enthusiast**
+**AI/ML Engineer | Building Intelligent Systems**
 
-Welcome to my GitHub! I'm a final-year Computer Science and Engineering student passionate about building intelligent systems that solve real-world problems. My expertise spans **Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation (RAG), and Computer Vision** — with a commitment to shipping production-ready solutions.
-
-I believe in end-to-end ownership: from architecture and development to rigorous evaluation and deployment. Every project here reflects that philosophy.
+I craft production-grade AI solutions using **RAG, LLMs, and Machine Learning**. Passionate about end-to-end ownership: from architecture and development to rigorous evaluation and real-world deployment.
 
 ---
 
@@ -62,6 +60,7 @@ Beyond the flagship projects, I've built across the full stack:
 **Backend:** FastAPI, MongoDB, Docker  
 **Frontend:** React, HTML, CSS, Tailwind CSS  
 **Tools:** Git, REST APIs, Production Deployment
+
 
 
 ---
