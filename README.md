@@ -38,20 +38,7 @@ A system that detects postural errors in real-time and provides corrective feedb
 
 ---
 
-## 🛠️ Additional Projects
 
-Beyond the flagship projects, I've built across the full stack:
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Portfolio Website** | Showcase of projects and skills | React, TypeScript, Tailwind CSS |
-| **E-Commerce Platform** | Full-stack shopping application | React, Node.js, MongoDB, Stripe |
-| **Registration & Login System** | Secure authentication system | React, FastAPI, JWT, MongoDB |
-| **QR Code Generator** | Dynamic QR code creation tool | React, Python, qrcode library |
-| **Todo List App** | Task management with persistence | React, LocalStorage |
-| **Digital Clock** | Real-time clock with timezone support | HTML, CSS, JavaScript |
-
----
 
 ## 💻 Technical Skills
 
