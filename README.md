@@ -56,7 +56,7 @@ ISRO mission documents are massive, technical, and scattered. This system answer
 Physiotherapy is expensive and inaccessible. I built a system that watches your movements, detects errors, and gives corrective feedback through **AR overlays** — live, on video.
 
 **Key Features:**
-- 🎥 **Real-time pose estimation** with MediaPipe/OpenPose 
+- 🎥 **Real-time pose estimation** with MediaPipe/OpenPose
 - 🔴 **Postural error detection** with custom ML classifiers
 - 📱 **Augmented Reality feedback** with corrective guidance overlays
 - 📊 **Movement tracking** — joint angle analysis and ROM tracking
@@ -103,14 +103,24 @@ Beyond the flagship projects, I've built across the full stack:
 
 ---
 
-## 🎯 What I'm Looking For
+## 🙋 About Me
 
-I'm eager to contribute to teams building:
-- 🧠 Intelligent systems with RAG and LLMs
-- 👁️ Computer Vision applications at scale
-- 🚀 Edge AI and embedded systems
-- 📊 Data-driven products with rigorous evaluation
-- 🌐 Full-stack AI/ML applications
+- 🧠 **AI/ML Engineer** exploring RAG, LLMs, and intelligent systems
+- 🔬 **Building Production Systems** — from architecture to deployment
+- 📚 **Final-year CS Student** with hands-on experience in enterprise AI
+- 🚀 **Full-Stack Developer** — backend APIs, frontend UI, everything in between
+- 🎯 **Problem Solver** — passionate about solving real-world challenges with AI
+- 📈 **Always Learning** — staying updated with latest developments in AI/ML
+
+---
+
+## 🚀 Currently Working On
+
+- 🤖 **RAG Systems** — Building retrieval-augmented generation solutions
+- 📄 **Document Intelligence** — QA systems over complex technical documents
+- 🌐 **Full-Stack AI Applications** — Integrating LLMs into production systems
+- 🧪 **Rigorous Evaluation** — Measuring AI system performance with RAGAS metrics
+- 📚 **Knowledge Sharing** — Documenting learnings and best practices
 
 ---
 
@@ -128,11 +138,14 @@ I'm eager to contribute to teams building:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=radical&hide_border=true)
+### Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=react-dark&hide_border=true&area=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=radical&hide_border=true)
+### Statistics & Languages
+![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ---
 
