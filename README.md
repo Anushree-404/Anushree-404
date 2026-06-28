@@ -57,31 +57,76 @@ Beyond the flagship projects, I've built across the full stack:
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
+
 ### 🎨 **AI/ML & Data**
+
 ```
-Python • Machine Learning • LangChain • RAG • Vector Databases • RAGAS
+Python
+Machine Learning
+LangChain
+RAG
+Vector Databases
+RAGAS
 ```
+
+**Building intelligent systems with rigorous evaluation**
+
+</td>
+<td align="center" width="33%">
 
 ### ⚙️ **Full-Stack Development**
+
 ```
-FastAPI • React • Node.js • MongoDB • TypeScript • JavaScript
+FastAPI
+React
+Node.js
+MongoDB
+TypeScript
+JavaScript
 ```
+
+**End-to-end development from backend to frontend**
+
+</td>
+<td align="center" width="33%">
 
 ### 🔐 **Network Security**
+
 ```
-REST APIs • Authentication • Secure Deployment • Production Security
+REST APIs
+Authentication
+Encryption
+Secure Deployment
+Production Security
 ```
 
-### 📚 **Exploring & Learning**
-```
-🔍 Retrieval-Augmented Generation (RAG)
-🔍 Large Language Models (LLMs)
-🔍 Advanced AI Architectures
-```
+**Building secure & reliable applications**
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📚 **Currently Exploring**
+
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+🔍 **Retrieval-Augmented Generation (RAG)**
+
+🤖 **Large Language Models (LLMs)**
+
+🏗️ **Advanced AI Architectures**
+
+</div>
 
 </div>
 
 ---
+
 
 
 ## 👤 About Me
