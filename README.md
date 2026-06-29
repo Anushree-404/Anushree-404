@@ -127,15 +127,7 @@ Production Security
 
 ---
 
-## 📈 Approach & Philosophy
 
-✅ **Grounded AI** — Every answer must have a source  
-✅ **Rigorous Evaluation** — Metrics matter (RAGAS, accuracy, faithfulness)  
-✅ **Full Lifecycle** — Architecture → Development → Evaluation → Deployment  
-✅ **Production-Ready** — Not just notebooks; real systems that work  
-✅ **User-Centric** — Build for impact, not just complexity  
-
----
 
 ## 👤 About Me
 
