@@ -127,6 +127,15 @@ Production Security
 
 ---
 
+## 📈 Approach & Philosophy
+
+✅ **Grounded AI** — Every answer must have a source  
+✅ **Rigorous Evaluation** — Metrics matter (RAGAS, accuracy, faithfulness)  
+✅ **Full Lifecycle** — Architecture → Development → Evaluation → Deployment  
+✅ **Production-Ready** — Not just notebooks; real systems that work  
+✅ **User-Centric** — Build for impact, not just complexity  
+
+---
 
 ## 👤 About Me
 
@@ -164,18 +173,31 @@ Production Security
 
 ---
 
-## 📊 GitHub Analytics
-
-### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=github-dark&hide_border=true&area=true)
-
-### Statistics & Languages
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&card_width=400)
+### 🔗 Connect with My Work
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Anushree--404-181717?style=for-the-badge&logo=github)](https://github.com/Anushree-404)
+[![View Repositories](https://img.shields.io/badge/View%20My-Repositories-0366d6?style=for-the-badge&logo=github)](https://github.com/Anushree-404?tab=repositories)
+
+### 💻 Tech Stack Summary
+
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | Python, JavaScript, TypeScript, HTML, CSS |
+| **AI/ML** | LangChain, RAG, Vector Databases, RAGAS |
+| **Backend** | FastAPI, Node.js, MongoDB |
+| **Frontend** | React, Tailwind CSS, Responsive Design |
+| **Tools** | Git, Docker, REST APIs |
+
+### 📈 What I Build
+
+- 🧠 **AI-Powered Applications** — RAG systems, LLM integrations
+- 🎨 **Beautiful UIs** — User-centric, responsive web interfaces  
+- 🌐 **Full-Stack Solutions** — End-to-end web applications
+- 🚀 **Real-World Projects** — Solving actual problems with technology
 
 </div>
 
