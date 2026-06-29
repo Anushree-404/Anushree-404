@@ -38,20 +38,7 @@ A system that detects postural errors in real-time and provides corrective feedb
 
 ---
 
-## 🛠️ Additional Projects
 
-Beyond the flagship projects, I've built across the full stack:
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Portfolio Website** | Showcase of projects and skills | React, TypeScript, Tailwind CSS |
-| **E-Commerce Platform** | Full-stack shopping application | React, Node.js, MongoDB, Stripe |
-| **Registration & Login System** | Secure authentication system | React, FastAPI, JWT, MongoDB |
-| **QR Code Generator** | Dynamic QR code creation tool | React, Python, qrcode library |
-| **Todo List App** | Task management with persistence | React, LocalStorage |
-| **Digital Clock** | Real-time clock with timezone support | HTML, CSS, JavaScript |
-
----
 
 ## 💻 Technical Skills
 
@@ -165,16 +152,27 @@ Production Security
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Analytics
+
+### 🔥 Contribution Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=github-dark&hide_border=true&area=true)
+
+---
+
+### 📈 GitHub Statistics
 
 <div align="center">
 
-### 🔗 Connect with My Work
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Anushree--404-181717?style=for-the-badge&logo=github)](https://github.com/Anushree-404)
-[![View Repositories](https://img.shields.io/badge/View%20My-Repositories-0366d6?style=for-the-badge&logo=github)](https://github.com/Anushree-404?tab=repositories)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
-### 💻 Tech Stack Summary
+</div>
+
+---
+
+### 🛠️ Tech Stack Summary
 
 | Category | Technologies |
 |----------|---------------|
@@ -184,14 +182,7 @@ Production Security
 | **Frontend** | React, Tailwind CSS, Responsive Design |
 | **Tools** | Git, Docker, REST APIs |
 
-### 📈 What I Build
-
-- 🧠 **AI-Powered Applications** — RAG systems, LLM integrations
-- 🎨 **Beautiful UIs** — User-centric, responsive web interfaces  
-- 🌐 **Full-Stack Solutions** — End-to-end web applications
-- 🚀 **Real-World Projects** — Solving actual problems with technology
-
-</div>
+---
 
 ---
 
