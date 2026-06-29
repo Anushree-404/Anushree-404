@@ -1,8 +1,8 @@
 # Hi there, I'm Anushree Dhanashetti 👋
 
-**AI/ML Engineer | Full-Stack Developer | Security Enthusiast**
+**AI/ML Engineer | Full-Stack Developer | UI/UX Focused**
 
-I build intelligent systems across the **full stack** — from AI/ML backends to responsive frontends. Exploring **RAG & LLMs** while maintaining strong fundamentals in **Network Security**. Passionate about end-to-end ownership: architecture → development → evaluation → deployment.
+I design and build **intelligent web applications** solving real-world problems. AI-powered backends, beautiful frontends, and user-centric design.
 
 ---
 
@@ -38,7 +38,20 @@ A system that detects postural errors in real-time and provides corrective feedb
 
 ---
 
+## 🛠️ Additional Projects
 
+Beyond the flagship projects, I've built across the full stack:
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Portfolio Website** | Showcase of projects and skills | React, TypeScript, Tailwind CSS |
+| **E-Commerce Platform** | Full-stack shopping application | React, Node.js, MongoDB, Stripe |
+| **Registration & Login System** | Secure authentication system | React, FastAPI, JWT, MongoDB |
+| **QR Code Generator** | Dynamic QR code creation tool | React, Python, qrcode library |
+| **Todo List App** | Task management with persistence | React, LocalStorage |
+| **Digital Clock** | Real-time clock with timezone support | HTML, CSS, JavaScript |
+
+---
 
 ## 💻 Technical Skills
 
@@ -115,25 +128,25 @@ Production Security
 ---
 
 
-
 ## 👤 About Me
 
-- 🎯 **AI/ML Engineer** exploring RAG, LLMs, and intelligent systems
-- 🏗️ **Building Production Systems** — from architecture to deployment
-- 👨‍💻 **Full-Stack Developer** — backend APIs, frontend UI, everything in between
-- 🔐 **Security Conscious** — building safe and secure applications
-- 🚀 **Problem Solver** — passionate about solving real-world challenges with AI
-- 📚 **Always Learning** — staying updated with latest developments in AI/ML
+- 🎨 **UI/UX Designer & Developer** — Building beautiful, intuitive interfaces
+- 💡 **Problem Solver** — Passionate about solving real-world challenges with technology
+- 🏗️ **Full-Stack Builder** — From concept to production, crafting complete web solutions
+- 🧠 **AI/ML Enthusiast** — Exploring RAG, LLMs, and intelligent system design
+- 📱 **User-Centric** — Every design decision is made with the user in mind
+- 🚀 **Always Learning** — Staying updated with latest web tech and design trends
 
 ---
 
 ## 🚀 Currently Working On
 
-- 📦 **RAG Systems** — Building retrieval-augmented generation solutions
-- 📄 **Document Intelligence** — QA systems over complex technical documents
-- 🌐 **Full-Stack AI Applications** — Integrating LLMs into production systems
-- 🧪 **Rigorous Evaluation** — Measuring AI system performance with RAGAS metrics
-- 📚 **Knowledge Sharing** — Documenting learnings and best practices
+- 🎨 **Web UI/UX Design** — Creating beautiful, responsive interfaces
+- 🌐 **Full-Stack Web Projects** — Building end-to-end web applications
+- 🤖 **AI-Powered Features** — Integrating RAG & LLMs into web platforms
+- 📊 **Real-World Solutions** — Solving actual user problems with technology
+- 🧪 **Design Systems** — Building scalable, consistent design patterns
+- 📚 **Portfolio Projects** — Showcasing problem-solving through design
 
 ---
 
@@ -154,11 +167,17 @@ Production Security
 ## 📊 GitHub Analytics
 
 ### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=github-dark&hide_border=true&area=true)
 
 ### Statistics & Languages
-![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+<div align="center">
+
+![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&card_width=400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+</div>
 
 ---
 
@@ -179,5 +198,5 @@ I'm actively looking to collaborate on:
 ### "Code is poetry, but AI systems tell stories that matter." 
 
 ⭐ If you find my projects interesting, consider giving them a star! It helps others discover them too.
-</div>
 
+</div>
