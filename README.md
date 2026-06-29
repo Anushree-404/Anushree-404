@@ -112,9 +112,8 @@ Production Security
 
 </div>
 
+
 ---
-
-
 
 ## 👤 About Me
 
@@ -154,7 +153,7 @@ Production Security
 
 ## 📊 GitHub Analytics
 
-### 🔥 Contribution Activity Graph
+### 🔥 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=github-dark&hide_border=true&area=true)
 
@@ -164,23 +163,71 @@ Production Security
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<table>
+<tr>
+<td align="center" width="30%">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+### 569
+**Total Contributions**
+
+*Jul 4, 2024 - Present*
+
+</td>
+<td align="center" width="40%">
+
+### 49 🔥
+**Current Streak**
+
+*May 12 - Jun 29*
+
+</td>
+<td align="center" width="30%">
+
+### 49
+**Longest Streak**
+
+*May 12 - Jun 29*
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack Summary
+### 💻 Most Used Languages
 
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | Python, JavaScript, TypeScript, HTML, CSS |
-| **AI/ML** | LangChain, RAG, Vector Databases, RAGAS |
-| **Backend** | FastAPI, Node.js, MongoDB |
-| **Frontend** | React, Tailwind CSS, Responsive Design |
-| **Tools** | Git, Docker, REST APIs |
+<div align="center">
+
+**Language Distribution:**
+
+```
+JavaScript   ██████████████████░░ 57.93%
+HTML         ████████████░░░░░░░░ 25.81%
+Python       ███░░░░░░░░░░░░░░░░░ 6.56%
+CSS          ██░░░░░░░░░░░░░░░░░░ 3.38%
+PHP          ░░░░░░░░░░░░░░░░░░░░ 4.00%
+Java         ░░░░░░░░░░░░░░░░░░░░ 2.33%
+```
+
+</div>
+
+---
+
+### 🛠️ Tech Stack Breakdown
+
+<div align="center">
+
+| 🌐 Frontend | 🔧 Backend | 🧠 AI/ML |
+|----------|----------|---------|
+| React | FastAPI | LangChain |
+| TypeScript | Node.js | RAG |
+| Tailwind CSS | MongoDB | RAGAS |
+| JavaScript | Docker | Python ML |
+| HTML/CSS | REST APIs | Vector DB |
+
+</div>
 
 ---
 
