@@ -1,254 +1,145 @@
-# Hi there, I'm Anushree Dhanashetti 👋
+<h1 align="center">Hi 👋, I'm Anushree Dhanashetti</h1>
+<h3 align="center">AI/ML Engineer • Full-Stack Developer • Building Intelligent Systems</h3>
 
-**AI/ML Engineer | Full-Stack Developer | UI/UX Focused**
-
-I design and build **intelligent web applications** solving real-world problems. AI-powered backends, beautiful frontends, and user-centric design.
-
----
-
-## 🚀 Featured Projects
-
-### 1. **Legal AI Assistant** | RAG-powered Legal Research Platform
-
-An intelligent legal research system that retrieves statutes, reviews contracts, and answers legal questions with **full source attribution** — zero hallucination, every answer is traceable.
-
-**Stack:** LangChain, ChromaDB, FastAPI, GPT-4o, React, TypeScript
-
-**[Explore →](https://github.com/Anushree-404)**
+<p align="center">
+  <a href="https://github.com/Anushree-404">
+    <img src="https://komarev.com/ghpvc/?username=Anushree-404&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-### 2. **ISRO RAG Assistant** | Mission Document QA System
+## 🚀 About Me
 
-A precise Q&A system over dense ISRO technical documents using **hybrid retrieval** (FAISS + BM25) with confidence scoring and automatic hallucination detection. Evaluated on 30 QA pairs using RAGAS metrics.
-
-**Stack:** FAISS, BM25, ChromaDB, RAGAS, Python, LangChain, FastAPI
-
-**[Explore →](https://github.com/Anushree-404)**
-
----
-
-### 3. **AR Physiotherapy Assistant** | Real-time Pose Estimation & AR Feedback
-
-A system that detects postural errors in real-time and provides corrective feedback through AR overlays. Makes physiotherapy accessible without requiring a therapist in the room.
-
-**Stack:** Python, MediaPipe, OpenCV, TensorFlow, AR frameworks
-
-**[Explore →](https://github.com/Anushree-404)**
+- 🤖 AI/ML Engineer passionate about solving real-world problems
+- 🧠 Building RAG, LLM and Agentic AI applications
+- 💻 Full-Stack Developer (React, FastAPI, Python)
+- 📊 Interested in Machine Learning, NLP and Computer Vision
+- 🎯 Future UPSC IPS Officer
+- 🌱 Currently learning Advanced AI Agents & Cloud Deployment
 
 ---
 
+# 💼 Featured Projects
 
+### ⚖️ Legal AI Assistant
+RAG-powered legal research platform with source attribution and hallucination detection.
 
-## 💻 Technical Skills
+**Tech Stack**
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎨 **AI/ML & Data**
-
-```
-Python
-Machine Learning
-LangChain
-RAG
-Vector Databases
-RAGAS
-```
-
-**Building intelligent systems with rigorous evaluation**
-
-</td>
-<td align="center" width="33%">
-
-### ⚙️ **Full-Stack Development**
-
-```
-FastAPI
-React
-Node.js
-MongoDB
-TypeScript
-JavaScript
-```
-
-**End-to-end development from backend to frontend**
-
-</td>
-<td align="center" width="33%">
-
-### 🔐 **Network Security**
-
-```
-REST APIs
-Authentication
-Encryption
-Secure Deployment
-Production Security
-```
-
-**Building secure & reliable applications**
-
-</td>
-</tr>
-</table>
+`LangChain` `FastAPI` `React` `GPT-4o` `ChromaDB` `TypeScript`
 
 ---
 
-### 📚 **Currently Exploring**
+### 🚀 ISRO RAG Assistant
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+Question Answering system over ISRO mission documents using Hybrid Retrieval (FAISS + BM25).
 
-🔍 **Retrieval-Augmented Generation (RAG)**
+**Tech Stack**
 
-🤖 **Large Language Models (LLMs)**
-
-🏗️ **Advanced AI Architectures**
-
-</div>
-
-</div>
-
+`Python`
+`LangChain`
+`FAISS`
+`BM25`
+`FastAPI`
+`RAGAS`
 
 ---
 
-## 👤 About Me
+### 🏥 AR Physiotherapy Assistant
 
-- 🎨 **UI/UX Designer & Developer** — Building beautiful, intuitive interfaces
-- 💡 **Problem Solver** — Passionate about solving real-world challenges with technology
-- 🏗️ **Full-Stack Builder** — From concept to production, crafting complete web solutions
-- 🧠 **AI/ML Enthusiast** — Exploring RAG, LLMs, and intelligent system design
-- 📱 **User-Centric** — Every design decision is made with the user in mind
-- 🚀 **Always Learning** — Staying updated with latest web tech and design trends
+Real-time posture correction using MediaPipe, Computer Vision and AR overlays.
 
----
+**Tech Stack**
 
-## 🚀 Currently Working On
-
-- 🎨 **Web UI/UX Design** — Creating beautiful, responsive interfaces
-- 🌐 **Full-Stack Web Projects** — Building end-to-end web applications
-- 🤖 **AI-Powered Features** — Integrating RAG & LLMs into web platforms
-- 📊 **Real-World Solutions** — Solving actual user problems with technology
-- 🧪 **Design Systems** — Building scalable, consistent design patterns
-- 📚 **Portfolio Projects** — Showcasing problem-solving through design
+`Python`
+`MediaPipe`
+`OpenCV`
+`TensorFlow`
 
 ---
 
-## 📬 Let's Connect!
+# 🛠️ Tech Stack
 
-<a href="https://www.linkedin.com/in/anushree-dhanashetti/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:anushreedhanashetti@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://github.com/Anushree-404" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+### Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
-## 📊 GitHub Analytics
+### AI / ML
 
-### 🔥 Contribution Activity
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8A2BE2?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=github-dark&hide_border=true&area=true)
+### Web
 
----
-
-### 📈 GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="30%">
-
-### 569
-**Total Contributions**
-
-*Jul 4, 2024 - Present*
-
-</td>
-<td align="center" width="40%">
-
-### 49 🔥
-**Current Streak**
-
-*May 12 - Jun 29*
-
-</td>
-<td align="center" width="30%">
-
-### 49
-**Longest Streak**
-
-*May 12 - Jun 29*
-
-</td>
-</tr>
-</table>
-
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
 
 ---
 
-### 💻 Most Used Languages
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-**Language Distribution:**
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-```
-JavaScript   ██████████████████░░ 57.93%
-HTML         ████████████░░░░░░░░ 25.81%
-Python       ███░░░░░░░░░░░░░░░░░ 6.56%
-CSS          ██░░░░░░░░░░░░░░░░░░ 3.38%
-PHP          ░░░░░░░░░░░░░░░░░░░░ 4.00%
-Java         ░░░░░░░░░░░░░░░░░░░░ 2.33%
-```
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushree-404&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
----
+<p align="center">
 
-### 🛠️ Tech Stack Breakdown
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-
-| 🌐 Frontend | 🔧 Backend | 🧠 AI/ML |
-|----------|----------|---------|
-| React | FastAPI | LangChain |
-| TypeScript | Node.js | RAG |
-| Tailwind CSS | MongoDB | RAGAS |
-| JavaScript | Docker | Python ML |
-| HTML/CSS | REST APIs | Vector DB |
-
-</div>
+</p>
 
 ---
 
----
+# 📈 Contribution Graph
 
-## 🌟 Open to Collaboration
-
-I'm actively looking to collaborate on:
-- 🔬 AI/ML research and implementations
-- 🏗️ Building production AI systems
-- 💡 Open-source contributions
-- 🤝 Mentoring and knowledge sharing
-
-**Feel free to reach out — let's build something intelligent together!**
+[![Anushree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=tokyo-night&hide_border=true)](https://github.com/Anushree-404)
 
 ---
 
-<div align="center">
+# 🏆 GitHub Trophies
 
-### "Code is poetry, but AI systems tell stories that matter." 
+![](https://github-profile-trophy.vercel.app/?username=Anushree-404&theme=tokyonight&no-frame=true&row=1&column=6)
 
-⭐ If you find my projects interesting, consider giving them a star! It helps others discover them too.
+---
 
-</div>
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushree-404&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushree-404&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anushree-404&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Anushree-404)
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
