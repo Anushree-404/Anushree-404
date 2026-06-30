@@ -84,19 +84,26 @@ Real-time posture correction using MediaPipe, Computer Vision and AR overlays.
 
 ---
 
-# 📊 GitHub Analytics
+
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anushree-404&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushree-404&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Anushree-404&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushree-404&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushree-404&theme=tokyonight"/>
 
 </p>
 
@@ -104,7 +111,7 @@ Real-time posture correction using MediaPipe, Computer Vision and AR overlays.
 
 # 📈 Contribution Graph
 
-[![Anushree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=tokyo-night&hide_border=true)](https://github.com/Anushree-404)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anushree-404&theme=tokyo-night&hide_border=true)](https://github.com/Anushree-404)
 
 ---
 
